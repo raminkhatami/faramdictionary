@@ -33,10 +33,9 @@
 		}, 500);
 
 	});
-
 	function showClipBoardVocab() {
 		new_clipboard_vocab = clipboard.readText();
-		var regex = /^[a-zA-Z]*[a-z0-9]*[a-z0-9]$/ig;
+		var regex = /^[a-zA-Z][a-z]+$/g;
 		if(!regex.test(new_clipboard_vocab)) {
 			return;
 		}
