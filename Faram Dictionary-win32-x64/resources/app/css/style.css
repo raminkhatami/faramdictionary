@@ -8,7 +8,7 @@ body {
 }
 #vocab {
     position: absolute;
-    width: 16%;
+    width: 20%;
     height: 60px;
     padding: 0 3px !important;
     margin: 0;
@@ -38,4 +38,19 @@ body {
     /* line-height: 60px; */
     padding: 4px !important;
     line-height: 1em;
+}
+#speaker {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    bottom: 0;
+    left: 20%
+}
+.mute {
+    background: url("img/mute.png") no-repeat;
+    background-size: 25px 25px;
+}
+.speech {
+    background: url("img/sound.png") no-repeat;
+    background-size: 25px 25px;
 }
