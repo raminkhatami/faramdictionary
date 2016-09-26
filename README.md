@@ -10,7 +10,10 @@
 
 برای استفاده برنامه را از پوشه مربوطه دانلود کرده و اجرا کنید.
 برای بستن برنامه روی آن کلیک کنید
+
+
 ![نحوه نمایش دیکشنری](usage_sample.gif)
+
 
 >متاسفانه در حال حاظر تنها امکان نشان دادن یک کلمه در هر چهار ثانیه وجود دارد.
 
@@ -21,7 +24,10 @@
 -macOS
 -Windows
 - Linux
+
+
 ![Usage Example in Mac](./usage_sample.gif)
+
 
 to use  download  from each corresponding platform folders
 
