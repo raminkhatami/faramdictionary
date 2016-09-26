@@ -21,6 +21,7 @@
 -macOS
 -Windows
 - Linux
+![Usage Example in Mac](./usage_sample.gif)
 
 to use  download  from each corresponding platform folders
 
